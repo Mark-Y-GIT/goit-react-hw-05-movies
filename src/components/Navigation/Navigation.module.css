@@ -1,0 +1,18 @@
+.navListLink {
+  text-decoration: none;
+  font-size: large;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+}
+
+.navListLinkIsActive {
+  color: rgb(231, 66, 94);
+}
+
+.navList {
+  display: flex;
+}
+
+.navListItem:not(:last-child) {
+  margin-right: 20px;
+}

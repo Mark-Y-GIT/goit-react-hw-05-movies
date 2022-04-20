@@ -1,0 +1,6 @@
+.AppBar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(61, 47, 55, 0.2);
+  box-shadow: 1px 7px 10px 1px rgba(20, 9, 16, 0.2);
+}
